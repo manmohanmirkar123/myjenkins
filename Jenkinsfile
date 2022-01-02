@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World from the jenkins Hook'
+                echo 'Hello World from the jenkins Hook test'
             }
         }
     }
